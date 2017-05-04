@@ -1,0 +1,25 @@
+Master Rpi
+Slaves 2 x Rpi
+Test pi50 - 
+
+Master Rpi
+Slaves 2 x Nano
+Test pi50 - 
+
+Master Rpi
+Slaves 4 x Nano
+Test pi50 - 
+
+
+Master Nano
+Slaves 2 x Nano
+Test pi50 - 53s
+
+Master Nano
+Slaves 3 x Nano
+Test pi50 - OOM, 49
+ 
+
+Master Nano
+Slaves 2 x Rpi
+Test pi50 - 30
